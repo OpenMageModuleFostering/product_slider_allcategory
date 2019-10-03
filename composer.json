@@ -1,17 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/Product_slider_allcategory",
-    "type": "magento-module",
-    "license": "OSLv1.0",
-    "homepage": "",
-    "description": "All categories product slider with it we can select the product of perticuar categories and display it anywhere in site.
-we can create multiple slider with it",
-    "authors": [
-    {
-        "name": "Rohit Dhiman",
-        "email": "rdhimansujji@gmail.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
